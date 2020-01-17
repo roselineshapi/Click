@@ -1,11 +1,11 @@
 # Click
 
 ### App Description
-The app displays the word "Hello from Roseline". It has three buttons. The first button allows the user to input their own text. The second button changes the color from black to orange. The third button changes  the view color from green to red. When user taps on screen, the view setting are reset.
+The app displays the word "Hello from Roseline!". It has three buttons. The first button allows the user to input their own text. The second button changes the color from black to orange. The third button changes  the view color from green to red. When user taps on screen, the view setting are reset.
  
 
 ### App Walk-though
-<img src="https://recordit.co/RRjuOUqiKR.gif"><br>
+<img src="https://recordit.co/cLgmqjgvKc.gif"><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Roseline!
