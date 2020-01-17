@@ -5,7 +5,7 @@ The app displays the word "Hello from Roseline". It has three buttons. The first
  
 
 ### App Walk-though
-<img src="http://g.recordit.co/5PfIiV1wfH.gif"><br>
+<img src="https://recordit.co/RRjuOUqiKR.gif"><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Roseline!
